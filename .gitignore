@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated datasets and trained model artifacts
+mnc_artifacts/
+mnc_dataset.npz
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
